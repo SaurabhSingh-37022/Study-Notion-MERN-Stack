@@ -1,0 +1,1 @@
+export const REACT_APP_BASE_URL = "https://studynotion-backend-09oa.onrender.com"
